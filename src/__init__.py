@@ -1,1 +1,2 @@
-import app
+"""Root package."""
+from . import app
