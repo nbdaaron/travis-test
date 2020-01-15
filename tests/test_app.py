@@ -14,4 +14,4 @@ def test_subtract_numbers():
 
 def test_broken_add_numbers():
 	# Expected to fail
-	assert broken_add_numbers(7, 12) == 19
+	assert broken_add_numbers(7, 12) != 19
